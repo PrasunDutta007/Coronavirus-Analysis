@@ -37,12 +37,13 @@
   Done!!
 ```
 
-## Screenshots
-<img src="/Screenshots/Scr-1.png"/>
-
+## Demo
 <img src="/Screenshots/gif-1.gif"/>
 
 <img src="/Screenshots/gif-2.gif"/>
+
+## Screenshots
+<img src="/Screenshots/Scr-1.png"/>
 
 <img src="/Screenshots/Scr-2.png"/>
 
