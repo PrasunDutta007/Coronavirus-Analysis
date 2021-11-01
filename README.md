@@ -1,6 +1,6 @@
 # Coronavirus Analysis
 
-
+<img src="/Screenshots/corona.gif" width="100%">
 
 
 ## Tech
